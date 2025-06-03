@@ -1,6 +1,8 @@
 # Hi, I'm István Gellért Knáb 👋
 
 ## About me
+🚗 During my Bachelor's studies in Vehicle Engineering, I became fascinated by deep learning 🤖 — especially reinforcement learning 🎯, which closely resembles human behavior 🧠.  
+Since then, my research has expanded into traffic control 🚦, multi-agent systems 🤝, and training sample prioritization techniques 📊✨.
 
 ## Research
 
