@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/istvan-knab/istvan-knab/blob/main/20250603_1423_Digital%20Network%20Introduction_simple_compose_01jwtvxa39e5v9dspydrecdg0c.gif" width="800"/>
+  <img src="https://github.com/istvan-knab/istvan-knab/blob/main/20250603_1443_DigitalNetworkIntroduction_remix_01jwtx2zqhfrbbgej65jze8fjj-ezgif.com-video-to-gif-converter.gif" width="800"/>
 </p>
 
 🚗 **Vehicle Engineer** turned 🤖 **AI Researcher**  
