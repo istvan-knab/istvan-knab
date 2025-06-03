@@ -37,7 +37,6 @@
 
 ---
 
-## Research 🧠▶️📊
 
 ## Papers 🗞️
 
