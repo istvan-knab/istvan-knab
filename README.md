@@ -1,6 +1,6 @@
 # Hi, I'm István Gellért Knáb 👋
 
-## About me
+## About me 🧔
 🎓 Started my journey in Vehicle Engineering 🚙 where I discovered my passion for Deep Learning 🤖 — especially Reinforcement Learning 🧠🎯, the closest thing we have to mimicking human decision-making.  
 
 🚦 These days I’m diving into:
@@ -11,7 +11,9 @@
 Always exploring cool problems & smarter solutions 🚀✨
 
 
-## Research
+## Research 🧠▶️📊
+
+## Papers 🗞️
 
 
 <!--
