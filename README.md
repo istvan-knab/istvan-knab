@@ -15,11 +15,11 @@
 
 ## 📬 Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/YOUR_RESEARCHGATE)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=ORCID&logoColor=white)](https://orcid.org/YOUR_ORCID)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/istvan-knab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istván-gellért-knáb-712345sa/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Qil3Q_wAAAAJ&hl=hu)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Istvan-Gellert-Knab?ev=hdr_xprf)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=ORCID&logoColor=white)](https://orcid.org/0009-0007-6906-3308)
 
 ---
 
