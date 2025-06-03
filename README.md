@@ -1,4 +1,4 @@
-# Hi there 👋 I'm István Gellért Knáb
+![Demo]()
 
 🚗 **Vehicle Engineer** turned 🤖 **AI Researcher**  
 🎯 Passionate about **Reinforcement Learning**, **Multi-Agent Systems**, and **Traffic Control** 🚦
