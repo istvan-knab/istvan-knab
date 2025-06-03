@@ -1,4 +1,9 @@
-## Hi, I'm István Gellért Knáb 👋
+# Hi, I'm István Gellért Knáb 👋
+
+## About me
+
+## Research
+
 
 <!--
 **istvan-knab/istvan-knab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
