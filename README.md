@@ -43,7 +43,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=istvan-knab&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=istvan-knab&show_icons=true&theme=default" height="245" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istvan-knab" />
+</p>
 
 ---
 
