@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istvan-knab" height="220"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=istvan-knab&theme=github&area=true&hide_border=false&border_radius=15&bg_color=FFFFFF" width="820"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=istvan-knab&theme=default" width="800"/>
 </p>
 
 
