@@ -48,6 +48,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istvan-knab" height="220"/>
 </p>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=istvan-knab&theme=github-compact)
+
 ---
 
 
