@@ -31,6 +31,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=MathWorks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-FF6600?logo=MathWorks&logoColor=white)
 
 ---
 
