@@ -1,4 +1,4 @@
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![hippo](https://github.com/istvan-knab/istvan-knab/blob/main/20250603_1423_Digital%20Network%20Introduction_simple_compose_01jwtvxa39e5v9dspydrecdg0c.gif)
 
 🚗 **Vehicle Engineer** turned 🤖 **AI Researcher**  
 🎯 Passionate about **Reinforcement Learning**, **Multi-Agent Systems**, and **Traffic Control** 🚦
