@@ -45,8 +45,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=istvan-knab&show_icons=true&theme=default" height="220" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istvan-knab" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=istvan-knab&show_icons=true&theme=default" height="220" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istvan-knab" height="220" width="400" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=istvan-knab&theme=default" width="800"/>
